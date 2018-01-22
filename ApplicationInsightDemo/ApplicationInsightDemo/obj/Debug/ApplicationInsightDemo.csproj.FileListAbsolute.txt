@@ -1,1 +1,0 @@
-C:\Users\nikakkar\OneDrive\Git Hub\Azure\ApplicationInsightDemo\ApplicationInsightDemo\bin\Debug\ApplicationInsightDemo.exe.config
